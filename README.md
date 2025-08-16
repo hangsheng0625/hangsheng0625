@@ -3,11 +3,10 @@
 
 *A caffeine-powered developer who turns complex AI models into delightful user experiences* ☕
 
-🎓 **Fresh Graduate** from Monash University Malaysia
+🎓 **Fresh Graduate** from Monash University Malaysia  
 🧠 **Passionate about** creating full-stack solutions that integrate AI for real-world problems  
 📧 **Contact me** at hangsheng279@gmail.com  
-🌐 **Portfolio**: [liawhangsheng.vercel.app](https://liawhangsheng.vercel.app)
-
+🌐 **Portfolio**: [liawhangsheng.vercel.app](https://liawhangsheng.vercel.app)  
 ⚡ **Fun fact**: *I make AI feel as simple as ordering your favorite bubble tea* 🧋
 
 ---
@@ -20,7 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
